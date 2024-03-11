@@ -1,1 +1,2 @@
-hello, my name is wangbingyang ,Nice to meet you
+hello, my name is wangbingyang ,Nice to meet you too
+git is a version control software
