@@ -13,3 +13,5 @@ Creating a new branch is quick AND simple aadd
 =======
 Creating a new branch is quick AND simple aadd
 >>>>>>> feature1
+
+test no-ff
